@@ -1,0 +1,24 @@
+safe: true
+markdown: kramdown
+highlighter: rouge
+permalink: /:title.html
+relative_permalinks: false
+
+default_theme: yandex2
+default_width: 1024
+default_ratio: 16x9
+default_lang: en
+
+presentation:
+    title: Symcode
+    nda: false
+    lang: ru
+
+author:
+    name: Ханов Руслан
+    position: Разработчик
+    company:
+        name: Symcode
+        url:  https://hanovruslan.github.io/jekyller-symcode/
+
+progress: true
