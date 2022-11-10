@@ -11,6 +11,12 @@ style: |
 ## {{ site.presentation.title }}
 {:.title}
 
+## Откуда
+
+*Saint TeamLead Conf 2022*
+
+*Как и зачем управлять знаниями*
+
 ## Зачем?
 
 **Зачем?**
