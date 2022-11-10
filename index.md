@@ -6,7 +6,7 @@ style: |
     /* собственные стили можно писать здесь!! */
 ---
 
-# ![](pictures/symcode-logo.svg){:.logo}
+# ![](pictures/ventilator.jpg){:.logo}
 
 ## {{ site.presentation.title }}
 {:.title}
