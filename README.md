@@ -1,6 +1,6 @@
 # jekyller symcode #
 
-[View](https://hanovruslan.github.io/jekyller-symcode)
+[View](https://hanovruslan.github.io/bankimeet-saint-teamlead)
 
 ## Development ##
 
