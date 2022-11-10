@@ -10,7 +10,7 @@ default_ratio: 16x9
 default_lang: en
 
 presentation:
-    title: Symcode
+    title: "Saint TeamLead Conf 2022: Как и зачем управлять знаниями"
     nda: false
     lang: ru
 
@@ -18,7 +18,7 @@ author:
     name: Ханов Руслан
     position: Разработчик
     company:
-        name: Symcode
-        url:  https://hanovruslan.github.io/jekyller-symcode/
+        name: Banki.ru
+        url:  https://hanovruslan.github.io/bankimeet-saint-teamlead/
 
 progress: true
