@@ -27,7 +27,7 @@ https://teamleadconf.ru/spb/2022/abstracts/9098
 
 *Как и зачем управлять знаниями*
 
-![](pictures/ventilator.jpg){:.logo}
+![](pictures/kak-i-zachem.png){:.logo}
 
 ## Что есть знания и где они
 
