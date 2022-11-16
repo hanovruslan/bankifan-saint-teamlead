@@ -26,11 +26,13 @@ style: |
 
 ## Часть 1
 
+*Как и зачем управлять знаниями*
+
 ## Как и зачем управлять знаниями
 
 https://teamleadconf.ru/spb/2022/abstracts/9098
 
-![](pictures/kak-i-zachem.png){:.logo}
+![](pictures/kak-i-zachem.png)
 
 ## Что есть знания и где они
 
