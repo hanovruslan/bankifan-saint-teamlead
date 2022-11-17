@@ -6,6 +6,8 @@ style: |
     /* собственные стили можно писать здесь!! */
 ---
 
+# ![](pictures/ventilator.jpg){:.logo}
+
 ## {{ site.presentation.title }}
 {:.title}
 
