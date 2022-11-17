@@ -1,7 +1,7 @@
-# jekyller symcode #
+# Банки.Fan #
 
-[View](https://hanovruslan.github.io/bankimeet-saint-teamlead)
+[Просмотр](https://hanovruslan.github.io/bankifan-saint-teamlead)
 
 ## Development ##
 
-[Manual](./README-manual.md)
+[Документация](./README-manual.md)

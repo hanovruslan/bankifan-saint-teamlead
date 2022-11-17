@@ -10,7 +10,7 @@ default_ratio: 16x9
 default_lang: en
 
 presentation:
-    title: "Банки.Вентилятор Beta"
+    title: "Банки.Fan 1"
     nda: false
     lang: ru
 
@@ -19,6 +19,6 @@ author:
     position: Разработчик
     company:
         name: Banki.ru
-        url:  https://hanovruslan.github.io/bankimeet-saint-teamlead/
+        url:  https://hanovruslan.github.io/bankifan-saint-teamlead/
 
 progress: true
